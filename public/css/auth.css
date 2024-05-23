@@ -1,0 +1,32 @@
+html, body, .container-table {
+    height: 100%;
+}
+.container-table {
+    display: table;
+}
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+body {
+    background: #fff;  
+}
+
+.card {
+    background-color: rgb(37, 100, 143, 0.9);
+    border: none;
+    color: #fff;
+}
+
+/* Button */
+
+.btn-bordered {
+    border-radius: 20px 20px;
+}
+
+/* Input */
+
+.inputfield{
+    height:40px
+}

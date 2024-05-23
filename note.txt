@@ -1,0 +1,5 @@
+# migrate database
+php artisan migrate:fresh --seed
+
+# seed database wilayah indonesia
+php artisan laravolt:indonesia:seed

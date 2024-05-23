@@ -1,0 +1,41 @@
+{
+    "short_name": "Data Teknis",
+    "name": "Data Teknis",
+    "theme_color": "#fff",
+    "background_color": "#fff",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "icons/icon_36_36_dpi.png",
+        "type": "image/png",
+        "sizes": "36x36"
+      },
+      {
+        "src": "icons/icon_48_48_dpi.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "icons/icon_72_72_dpi.png",
+        "type": "image/png",
+        "sizes": "72x72"
+      },
+      {
+        "src": "icons/icon_96_96_dpi.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "icons/icon_144_144_dpi.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "icons/icon_192_192_dpi.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "http://127.0.0.1:8000/",
+    "orientation": "portrait"
+}
